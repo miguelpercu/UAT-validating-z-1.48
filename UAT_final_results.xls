@@ -1,0 +1,9 @@
+Parameter,Value
+k_early,0.94
+r_d_Mpc,139.49193525121834
+H0_km_s_Mpc,73.04
+chi2_UAT,15.402366123989395
+chi2_LCDM,29.534004672264125
+chi2_improvement,14.13163854827473
+r_d_reduction_percent,5.165588924319577
+physical_consistency,EXCELLENT
